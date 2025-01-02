@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Nicolae Dogotaru**  
 **🚀 DevOps Architect | Full-Stack Developer | Tech Enthusiast**  
 
-🌍 **Location:** Flexible (Remote)  
+🌍 **Location:** Paris, Flexible (Remote)  
 📧 **Email:** [nicolaedogotaru@gmail.com](mailto:nicolaedogotaru@gmail.com)  
 🔗 **Portfolio:** [www.nicolaedogotaru.com](https://www.nicolaedogotaru.com)  
 🔗 **GitHub:** [github.com/ndogota](https://github.com/ndogota)  
