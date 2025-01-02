@@ -14,7 +14,6 @@ As a **versatile DevOps Architect** and **Full-Stack Developer**, I specialize i
 
 - 🌟 Passionate about **DevOps**, **SaaS solutions**, and **automation**.  
 - 🔧 Skilled in **JavaScript**, **TypeScript**, **Kubernetes**, and more (see full stack below).  
-- 🎯 Always looking for **remote opportunities** to make an impact.
 
 ---
 
