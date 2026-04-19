@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Nicolae Dogotaru**  
-**🚀 DevOps Architect | Full-Stack Developer | Tech Enthusiast**  
+**🚀 System Architect | Full-Stack Engineer | SaaS Builder**  
 
-🌍 **Location:** Paris, Flexible (Remote)  
+🌍 **Location:** Flexible (Remote)  
 📧 **Email:** [nicolaedogotaru@gmail.com](mailto:nicolaedogotaru@gmail.com)  
 🔗 **Portfolio:** [www.nicolaedogotaru.com](https://www.nicolaedogotaru.com)  
 🔗 **GitHub:** [github.com/ndogota](https://github.com/ndogota)  
@@ -10,49 +10,62 @@
 
 ## 🚀 **About Me**
 
-As a **versatile DevOps Architect** and **Full-Stack Developer**, I specialize in creating scalable, secure, and high-performance systems. With a proven track record in **cloud technologies, Kubernetes orchestration**, and **application development**, I bring innovative solutions to both technical and business challenges.
+I design and build **production-grade systems** that connect product, backend logic, and infrastructure : with a strong focus on **scalability, reliability, and real-world constraints**.
 
-- 🌟 Passionate about **DevOps**, **SaaS solutions**, and **automation**.  
-- 🔧 Skilled in **JavaScript**, **TypeScript**, **Kubernetes**, and more (see full stack below).  
+My work goes beyond features:
+- designing **distributed systems**
+- building **AI-driven pipelines (RAG, LLM orchestration)**
+- deploying **cloud-native architectures ready for scale**
+
+- 🌟 Focused on **SaaS platforms**, **AI integration**, and **automation at scale**  
+- 🔧 Strong expertise in **TypeScript**, **Kubernetes**, **system design**, and **data pipelines**
 
 ---
 
 ## 🛠️ **Technical Stack**
+
 ### **Languages:**  
-`JavaScript (ES6+)` | `TypeScript` | `PHP` | `Python` | `Java` | `C# (Unity)` | `Bash`
+`JavaScript (ES6+)` | `TypeScript` | `Python` | `PHP` | `Java` | `C#` | `Bash`
 
 ### **DevOps & Cloud Tools:**  
-`Kubernetes` | `Helm` | `Terraform` | `Docker` | `Jenkins` | `GitHub Actions`
+`Kubernetes` | `Docker` | `Terraform` | `GitHub Actions` | `Helm` | `Traefik` | `Nginx` | `Cloudflare` | `DigitalOcean` | `AWS`
 
-### **Monitoring & Security:**  
-`Prometheus` | `Grafana` | `Splunk` | `OWASP ZAP` | `Metasploit`
+### **Monitoring & Observability:**  
+`Sentry` | `Prometheus` | `Grafana` | `Splunk` | `ELK Stack` | `OpenTelemetry`
 
 ### **Frontend & Backend:**  
-`React.js` | `Next.js` | `Prisma` | `Node.js` | `Ruby` | `Shopify (Liquid)`
+`Next.js` | `React` | `Node.js` | `Express.js` | `NestJS` | `Laravel` | `Django` | `Flask` | `PostgreSQL` | `Redis` | `Supabase` | `Prisma`
 
 ---
 
 ## 🌟 **Key Projects**
 
-### **[EarnYourStream](https://github.com/ndogota/earn-your-stream)**  
-🚀 *Full-Stack Development & DevOps*  
-- Integrated **TikTok API** for real-time interaction between viewers and in-game actions.  
-- Scaled and optimized server performance using **Kubernetes**.
+### **STHO Platform**
+🚀 *System Architecture & Full-Stack Development*  
+- Designed a platform handling **booking workflows and multi-currency financial flows** under real-world constraints (consistency, concurrency, reliability)  
+- Engineered a **distributed negotiation system** with state transitions, idempotency, and event-driven updates  
+- Built an **AI-driven market intelligence pipeline (RAG)** combining data retrieval, structured extraction, and LLM orchestration  
+- Developed **data ingestion and media processing pipelines** with a fully containerized infrastructure (CI/CD, observability)
 
-### **[Custom SaaS Solution](https://github.com/ndogota/custom-saas)** *(Coming Soon)*  
-💡 *Designed a SaaS platform to automate business workflows.*  
+---
+
+### **EarnYourStream**
+🚀 *Full-Stack Development & DevOps*  
+- Built real-time interaction systems between **TikTok Live events and game servers**  
+- Designed **event-driven architecture** translating viewer actions into in-game logic  
+- Scaled infrastructure using **Kubernetes** to improve availability and performance  
 
 ---
 
 ## 🎯 **What I Offer**
-- 📈 Expertise in **scalable architectures** and **DevOps pipelines**.  
-- 🛠️ Custom solutions for **cloud deployments** and **full-stack applications**.  
-- 🤝 Collaboration on cutting-edge projects to drive innovation.
+- 📈 Design of **scalable systems and architectures built for production**  
+- 🤖 Integration of **AI pipelines (RAG, LLM systems, data enrichment)**  
+- ⚙️ End-to-end development: **from backend logic to infrastructure deployment**  
 
 ---
 
 ## 📫 **Let's Collaborate!**
-I'm open to **remote opportunities** and **collaboration** on innovative projects. Whether you're looking for a **DevOps expert**, a **full-stack developer**, or a **technical consultant**, feel free to reach out.
+I'm open to **remote opportunities** and **building impactful systems** with strong technical and business constraints.
 
 📧 **Email:** [nicolaedogotaru@gmail.com](mailto:nicolaedogotaru@gmail.com)  
 🔗 **Portfolio:** [www.nicolaedogotaru.com](https://www.nicolaedogotaru.com)  
