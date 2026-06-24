@@ -1,71 +1,32 @@
-# 👋 Hi, I'm **Nicolae Dogotaru**  
-**🚀 System Architect | Full-Stack Engineer | SaaS Builder**  
+# Nicolae Dogotaru
 
-🌍 **Location:** Flexible (Remote)  
-📧 **Email:** [nicolaedogotaru@gmail.com](mailto:nicolaedogotaru@gmail.com)  
-🔗 **Portfolio:** [www.nicolaedogotaru.com](https://www.nicolaedogotaru.com)  
-🔗 **GitHub:** [github.com/ndogota](https://github.com/ndogota)  
+I build AI products end to end, the LLM systems and data pipelines, the app around them, and the infrastructure that keeps it all running in production.
 
----
+What I care about most is the unglamorous half of AI engineering: making generation systems reliable instead of just demo-ready, grounding them in real data, and keeping the infra and token cost under control once real users show up.
 
-## 🚀 **About Me**
+📍 France · Remote  ·  🌐 [nicolaedogotaru.com](https://www.nicolaedogotaru.com)  ·  ✉️ nicolaedogotaru@gmail.com
 
-I design and build **production-grade systems** that connect product, backend logic, and infrastructure : with a strong focus on **scalability, reliability, and real-world constraints**.
+## What I do
 
-My work goes beyond features:
-- designing **distributed systems**
-- building **AI-driven pipelines (RAG, LLM orchestration)**
-- deploying **cloud-native architectures ready for scale**
+- Design LLM-driven systems: generation, enrichment, retrieval —> built to hold up in production, not just in a demo.
+- Build the backend and data flows around them: Next.js, Laravel, Node, Python.
+- Run the infrastructure myself (k3s, Terraform, Docker, GitHub Actions). I'd rather own the whole chain than hand off the part that breaks first.
 
-- 🌟 Focused on **SaaS platforms**, **AI integration**, and **automation at scale**  
-- 🔧 Strong expertise in **TypeScript**, **Kubernetes**, **system design**, and **data pipelines**
+## Stack
 
----
+**Languages** — TypeScript, JavaScript, Python, PHP
+**Front / Back** — Next.js, React, Node, NestJS, Laravel, Django · PostgreSQL, Redis, Supabase, Prisma
+**Infra & ops** — Kubernetes / k3s, Docker, Terraform, GitHub Actions, Traefik, Cloudflare
+**Monitoring** — Grafana, Prometheus, Sentry, Splunk
 
-## 🛠️ **Technical Stack**
+## Things I've built
 
-### **Languages:**  
-`JavaScript (ES6+)` | `TypeScript` | `Python` | `PHP` | `Java` | `C#` | `Bash`
+**STHO** — an AI-native platform for the live-entertainment industry. I built the LLM generation systems at its core (automated venue programming, lead generation pairing scraping + LLM enrichment, reputation analysis), the product around them (Next.js + Laravel), and ran the whole cloud-native infrastructure.
 
-### **DevOps & Cloud Tools:**  
-`Kubernetes` | `Docker` | `Terraform` | `GitHub Actions` | `Helm` | `Traefik` | `Nginx` | `Cloudflare` | `DigitalOcean` | `AWS`
+**EarnYourStream** — a real-time bridge between TikTok Live and game servers: viewer actions trigger in-game events with no perceptible delay, on a Kubernetes setup built to absorb the spiky load of live streaming.
 
-### **Monitoring & Observability:**  
-`Sentry` | `Prometheus` | `Grafana` | `Splunk` | `ELK Stack` | `OpenTelemetry`
+## Reach me
 
-### **Frontend & Backend:**  
-`Next.js` | `React` | `Node.js` | `Express.js` | `NestJS` | `Laravel` | `Django` | `Flask` | `PostgreSQL` | `Redis` | `Supabase` | `Prisma`
+If you're building something where the AI has to actually work in production — not just look good in a demo — that's the kind of problem I like.
 
----
-
-## 🌟 **Key Projects**
-
-### **STHO Platform**
-🚀 *System Architecture & Full-Stack Development*  
-- Designed a platform handling **booking workflows and multi-currency financial flows** under real-world constraints (consistency, concurrency, reliability)  
-- Engineered a **distributed negotiation system** with state transitions, idempotency, and event-driven updates  
-- Built an **AI-driven market intelligence pipeline (RAG)** combining data retrieval, structured extraction, and LLM orchestration  
-- Developed **data ingestion and media processing pipelines** with a fully containerized infrastructure (CI/CD, observability)
-
----
-
-### **EarnYourStream**
-🚀 *Full-Stack Development & DevOps*  
-- Built real-time interaction systems between **TikTok Live events and game servers**  
-- Designed **event-driven architecture** translating viewer actions into in-game logic  
-- Scaled infrastructure using **Kubernetes** to improve availability and performance  
-
----
-
-## 🎯 **What I Offer**
-- 📈 Design of **scalable systems and architectures built for production**  
-- 🤖 Integration of **AI pipelines (RAG, LLM systems, data enrichment)**  
-- ⚙️ End-to-end development: **from backend logic to infrastructure deployment**  
-
----
-
-## 📫 **Let's Collaborate!**
-I'm open to **remote opportunities** and **building impactful systems** with strong technical and business constraints.
-
-📧 **Email:** [nicolaedogotaru@gmail.com](mailto:nicolaedogotaru@gmail.com)  
-🔗 **Portfolio:** [www.nicolaedogotaru.com](https://www.nicolaedogotaru.com)  
+✉️ nicolaedogotaru@gmail.com · 🌐 [nicolaedogotaru.com](https://www.nicolaedogotaru.com) · github.com/ndogota
