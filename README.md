@@ -1,4 +1,4 @@
-# Nicolae Dogotaru
+# ndogota
 
 I build AI products end to end, the LLM systems and data pipelines, the app around them, and the infrastructure that keeps it all running in production.
 
