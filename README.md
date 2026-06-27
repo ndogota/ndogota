@@ -14,12 +14,12 @@ What I care about most is the unglamorous half of AI engineering. Making generat
 
 ## Stack
 
-|  |  |
-| :-- | :-- |
-| **Languages** | TypeScript, JavaScript, Python, PHP |
-| **Front / Back** | Next.js, React, Node, NestJS, Laravel, Django · PostgreSQL, Redis, Supabase, Prisma |
-| **Infra & ops** | Kubernetes / k3s, Docker, Terraform, GitHub Actions, Traefik, Cloudflare |
-| **Monitoring** | Grafana, Prometheus, Sentry, Splunk |
+<table>
+<tr><td><b>Languages</b></td><td>TypeScript, JavaScript, Python, PHP</td></tr>
+<tr><td><b>Front / Back</b></td><td>Next.js, React, Node, NestJS, Laravel, Django · PostgreSQL, Redis, Supabase, Prisma</td></tr>
+<tr><td><b>Infra &amp; ops</b></td><td>Kubernetes / k3s, Docker, Terraform, GitHub Actions, Traefik, Cloudflare</td></tr>
+<tr><td><b>Monitoring</b></td><td>Grafana, Prometheus, Sentry, Splunk</td></tr>
+</table>
 
 ## Things I've built
 
